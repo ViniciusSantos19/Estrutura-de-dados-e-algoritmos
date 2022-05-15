@@ -51,7 +51,7 @@ int main()
          
         break;
       case 2:
-           printf("Tamanho atual lista 1: %d \n",TamanhoLista(Numero02));
+           printf("Tamanho atual lista 2: %d \n",TamanhoLista(Numero02));
           printf("Digite o Dado1: \n");
            scanf("%d",&Num1);
            printf("Digite o Dado2: \n");
