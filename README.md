@@ -4,7 +4,7 @@
 
 ### Algoritimos de ordenação
 
-- -Adicionado Bubble sort
+- Adicionado Bubble sort
 - Adcionado Insert sort
 - Adcionado Selection Sort
 - Há adicionar Merge Sort
@@ -14,7 +14,7 @@
 
 ### Algoritmos de busca
 
-- -Adicionado busca linear
+- Adicionado busca linear
 - Adicionado busca binária
 
 
