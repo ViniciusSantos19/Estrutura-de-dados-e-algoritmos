@@ -28,5 +28,5 @@
 - Há adicionar Garfos.
 - Há adcionar Arvores.
 - Há adcionoar Lista duplamente encadeada.
-- Há adicionarLista encadeada circular.
+- Há adicionarLista encadeada circular..
 
