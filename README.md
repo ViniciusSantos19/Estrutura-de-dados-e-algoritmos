@@ -27,6 +27,6 @@
 - Adicionado fila (incompleto).
 - Há adicionar Garfos.
 - Há adcionar Arvores.
-- Há adcionoar Lista duplamente encadeada.
+- Há adcionoar Lista duplamente encadeada..
 - Há adicionarLista encadeada circular..
 
